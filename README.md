@@ -33,7 +33,9 @@ flutter pub get
 
 4. Run the app:
 ```bash
-flutter run
+flutter run or
+flutter run -d chrome
+
 ```
 
 ## Dependencies
