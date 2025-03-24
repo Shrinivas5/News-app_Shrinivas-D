@@ -17,7 +17,7 @@ A Flutter news application that fetches and displays news articles from NewsAPI.
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Shrinivas5/News-app_Shrinivas-D.git
 cd news-app
 ```
 
